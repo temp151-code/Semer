@@ -10,3 +10,22 @@ For the text modality,the augmented features correspond to the column semantic_e
 and the emotion-word-masked features are stored in semantic_explanation__masked. For the vision modality, 
 the augmented features are stored in the column vision_caption.
 
+Environment Information
+
+Python: 3.12 (Ubuntu 22.04)
+
+PyTorch: 2.8.0 + cu128
+
+NumPy: 2.3.2
+
+CUDA: 12.8
+
+GPU: RTX PRO 6000 × 1 (96 GB)
+
+CPU: 22 vCPU Intel Xeon Platinum 8470Q
+
+Memory: 110 GB
+
+⚠️ Note: If the environment changes (e.g., PyTorch version, CUDA, GPU number/model, or Python version),
+results may vary slightly even when using the same random seed. This is due to floating-point differences and GPU parallel computation.
+
