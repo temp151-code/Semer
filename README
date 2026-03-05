@@ -1,3 +1,12 @@
-The LLM-based data augmentation proposed in our work is stored in the folder LLM_data. Specifically, the audio augmentation information is contained in dev_prosody_llm_all.jsonl, train_prosody_llm_all.jsonl, and test_prosody_llm_all.jsonl. In our experiments, we use the augmented feature "one_liner".
+This is an anonymous code repository.
 
-For the text and vision modalities, the augmented information is stored in Train_Dia_labeled_semantic_masked, Test_Dia_labeled_semantic_masked, and dev_Dia_labeled_semantic_masked. For the text modality, the augmented features correspond to the column semantic_explanation, and the emotion-word-masked features are stored in semantic_explanation__masked. For the vision modality, the augmented features are stored in the column vision_caption.
+The LLM-based data augmentation proposed in our work is stored in the folder LLM_data. Specifically, 
+the audio augmentation information is contained in dev_prosody_llm_all.jsonl, train_prosody_llm_all.jsonl, 
+and test_prosody_llm_all.jsonl. In our experiments, we use the augmented feature "one_liner".
+
+For the text and vision modalities, the augmented information is stored in Train_Dia_labeled_semantic_masked, Test_Dia_labeled_semantic_masked, 
+and dev_Dia_labeled_semantic_masked. 
+For the text modality,the augmented features correspond to the column semantic_explanation, 
+and the emotion-word-masked features are stored in semantic_explanation__masked. For the vision modality, 
+the augmented features are stored in the column vision_caption.
+
