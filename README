@@ -34,3 +34,13 @@ or the video duration is abnormally long. For these cases, we treat the text mod
 In addition, due to occasional instability in online token transmission during AI-based data augmentation,
 a small number of augmented samples may be missing. The proposed model is designed to be robust to such partial modality absence.
 
+Original translation & polishing:
+
+File shared via Baidu Cloud: Pkl_Data
+Link: https://pan.baidu.com/s/1Q3__2FnHdt8jSjhcYKzK0g
+
+Extraction code: h9i7
+
+If you are able to access Baidu Cloud, our PKL dataset is available at this link for use. Due to current network and other constraints, 
+alternative sharing links are still being arranged. We apologize for any inconvenience and appreciate your understanding.
+
