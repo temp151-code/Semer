@@ -29,5 +29,8 @@ Memory: 110 GB
 ⚠️ Note: If the environment changes (e.g., PyTorch version, CUDA, GPU number/model, or Python version),
 results may vary slightly even when using the same random seed. This is due to floating-point differences and GPU parallel computation.
 
-The downloaded MELD dataset contains a small number of potentially erroneous samples, where the text does not match the corresponding video or the video duration is abnormally long. For these cases, we treat the text modality as the reference and mark the other two modalities as missing. In addition, due to occasional instability in online token transmission during AI-based data augmentation, a small number of augmented samples may be missing. The proposed model is designed to be robust to such partial modality absence.
+The downloaded MELD dataset contains a small number of potentially erroneous samples, where the text does not match the corresponding video 
+or the video duration is abnormally long. For these cases, we treat the text modality as the reference and mark the other two modalities as missing. 
+In addition, due to occasional instability in online token transmission during AI-based data augmentation,
+a small number of augmented samples may be missing. The proposed model is designed to be robust to such partial modality absence.
 
