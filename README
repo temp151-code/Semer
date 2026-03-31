@@ -2,7 +2,7 @@ Additional Note:
 The metric reported for each individual class in the paper is the F1 score.
 ————————————————————————————————————————————————————————————————————————————————————
 
-This is an anonymous code repository.
+This is an anonymous code repository.This program was primarily designed by a human author and implemented with the assistance of ChatGPT‑5.
 
 The LLM-based data augmentation proposed in our work is stored in the folder LLM_data. Specifically, 
 the audio augmentation information is contained in dev_prosody_llm_all.jsonl, train_prosody_llm_all.jsonl, 
