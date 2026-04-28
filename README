@@ -47,3 +47,4 @@ Extraction code: h9i7
 Due to current network and other constraints, 
 alternative sharing links are still being arranged. We apologize for any inconvenience and appreciate your understanding.
 
+A small number of samples encountered feature extraction failures. Our implementation is designed to handle occasional missing modalities.
